@@ -1,0 +1,7 @@
+{
+    "routes": [
+        { "src": "/signup", "dest": "/signup.php" },
+        { "src": "/login", "dest": "/login.php" },
+        { "src": "/main", "dest": "/main.php" }
+    ]
+}
